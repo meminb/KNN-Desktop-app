@@ -1,0 +1,19 @@
+C:\Users\muham\source\repos\proje 1 kaybolmasın artık\proje 1 kaybolmasın artık\bin\Debug\proje 1 kaybolmasın artık.exe.config
+C:\Users\muham\source\repos\proje 1 kaybolmasın artık\proje 1 kaybolmasın artık\bin\Debug\proje 1 kaybolmasın artık.exe
+C:\Users\muham\source\repos\proje 1 kaybolmasın artık\proje 1 kaybolmasın artık\bin\Debug\proje 1 kaybolmasın artık.pdb
+C:\Users\muham\source\repos\proje 1 kaybolmasın artık\proje 1 kaybolmasın artık\obj\Debug\proje 1 kaybolmasın artık.csprojAssemblyReference.cache
+C:\Users\muham\source\repos\proje 1 kaybolmasın artık\proje 1 kaybolmasın artık\obj\Debug\proje_1_kaybolmasın_artık.Form1.resources
+C:\Users\muham\source\repos\proje 1 kaybolmasın artık\proje 1 kaybolmasın artık\obj\Debug\proje_1_kaybolmasın_artık.Properties.Resources.resources
+C:\Users\muham\source\repos\proje 1 kaybolmasın artık\proje 1 kaybolmasın artık\obj\Debug\proje 1 kaybolmasın artık.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\proje 1 kaybolmasın artık\proje 1 kaybolmasın artık\obj\Debug\proje 1 kaybolmasın artık.exe
+C:\Users\muham\source\repos\proje 1 kaybolmasın artık\proje 1 kaybolmasın artık\obj\Debug\proje 1 kaybolmasın artık.pdb
+C:\Users\muham\Desktop\projelers\proje 1.2\proje 1 kaybolmasın artık\bin\Debug\proje 1 kaybolmasın artık.exe.config
+C:\Users\muham\Desktop\projelers\proje 1.2\proje 1 kaybolmasın artık\bin\Debug\proje 1 kaybolmasın artık.exe
+C:\Users\muham\Desktop\projelers\proje 1.2\proje 1 kaybolmasın artık\bin\Debug\proje 1 kaybolmasın artık.pdb
+C:\Users\muham\Desktop\projelers\proje 1.2\proje 1 kaybolmasın artık\obj\Debug\proje 1 kaybolmasın artık.csprojAssemblyReference.cache
+C:\Users\muham\Desktop\projelers\proje 1.2\proje 1 kaybolmasın artık\obj\Debug\proje_1_kaybolmasın_artık.Form1.resources
+C:\Users\muham\Desktop\projelers\proje 1.2\proje 1 kaybolmasın artık\obj\Debug\proje_1_kaybolmasın_artık.Properties.Resources.resources
+C:\Users\muham\Desktop\projelers\proje 1.2\proje 1 kaybolmasın artık\obj\Debug\proje 1 kaybolmasın artık.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\projelers\proje 1.2\proje 1 kaybolmasın artık\obj\Debug\proje 1 kaybolmasın artık.exe
+C:\Users\muham\Desktop\projelers\proje 1.2\proje 1 kaybolmasın artık\obj\Debug\proje 1 kaybolmasın artık.pdb
+C:\Users\muham\Desktop\projelers\proje 1.2\proje 1 kaybolmasın artık\obj\Debug\proje 1 kaybolmasın artık.csproj.CoreCompileInputs.cache
